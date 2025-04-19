@@ -1,0 +1,25 @@
+{
+  "name": "ceger-crege-client",
+  "version": "1.0.0",
+  "description": "Plataforma web para divulgação, publicação e acompanhamento das ações e resultados do CEGER e CREGE",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ceger",
+    "crege",
+    "educação",
+    "paraíba",
+    "gestão",
+    "resultados",
+    "aprendizagem"
+  ],
+  "author": "SEE-PB",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
