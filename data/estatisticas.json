@@ -1,0 +1,42 @@
+{
+  "total_gres": 16,
+  "total_municipios": 223,
+  "total_escolas": 597,
+  "distribuicao_niveis": {
+    "aprovacao": {
+      "Baixo": 419,
+      "Alto": 117,
+      "Médio": 61
+    },
+    "reprovacao": {
+      "Baixo": 434,
+      "Alto": 97,
+      "Médio": 66
+    },
+    "abandono": {
+      "Baixo": 534,
+      "Alto": 39,
+      "Médio": 24
+    },
+    "frequencia": {
+      "Baixo": 263,
+      "Alto": 209,
+      "Médio": 125
+    },
+    "participacao_siave": {
+      "Alto": 531,
+      "Baixo": 45,
+      "Médio": 21
+    },
+    "participacao_saeb": {
+      "Alto": 352,
+      "Baixo": 133,
+      "Médio": 112
+    },
+    "desempenho": {
+      "Baixo": 476,
+      "Alto": 94,
+      "Médio": 27
+    }
+  }
+}

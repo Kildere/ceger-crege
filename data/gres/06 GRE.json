@@ -1,0 +1,1597 @@
+{
+  "nome": "06ª GRE",
+  "municipios": [
+    {
+      "nome": "Areia de Baraúnas",
+      "escolas": [
+        {
+          "inep": "25020374",
+          "nome": "EEEFM CLOVIS SATIRO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Assunção",
+      "escolas": [
+        {
+          "inep": "25050427",
+          "nome": "ECI EEM JOAO ROGERIO DIAS TOLEDO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Cacimba de Areia",
+      "escolas": [
+        {
+          "inep": "25019813",
+          "nome": "ESCOLA CIDADA INTEGRAL ESTADUAL DE ENSINO MEDIO ALDO SATIRO XAVIER",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Cacimbas",
+      "escolas": [
+        {
+          "inep": "25033794",
+          "nome": "EEEFM PEDRO TERTO DA CUNHA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Catingueira",
+      "escolas": [
+        {
+          "inep": "25024175",
+          "nome": "EEEFM INACIO DA CATINGUEIRA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Desterro",
+      "escolas": [
+        {
+          "inep": "25033786",
+          "nome": "ECI GERTRUDES LEITE",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25033816",
+          "nome": "EEEF SILVEIRA DANTAS",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Emas",
+      "escolas": [
+        {
+          "inep": "25025368",
+          "nome": "ECIT EFM PROFESSORA MARAGARIDA REMIGIO LOUREIRO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Juazeirinho",
+      "escolas": [
+        {
+          "inep": "25041525",
+          "nome": "ECIT DEPUTADO GENIVAL MATIAS",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        },
+        {
+          "inep": "25118358",
+          "nome": "EEEFM DEPUTADO PEDRO PASCOAL DE OLIVEIRA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Junco do Seridó",
+      "escolas": [
+        {
+          "inep": "25038478",
+          "nome": "ECIT EZEQUIEL FERNANDES",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Mãe d'Água",
+      "escolas": [
+        {
+          "inep": "25020102",
+          "nome": "EEEFM FRANCISCO ROMANO DA SILVEIRA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Malta",
+      "escolas": [
+        {
+          "inep": "25014692",
+          "nome": "ECIT DOUTOR ANTONIO FERNANDES MEDEIROS",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Maturéia",
+      "escolas": [
+        {
+          "inep": "25037781",
+          "nome": "EEEFM ANTONIO MOACIR DANTAS CAVALCANTI",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Passagem",
+      "escolas": [
+        {
+          "inep": "25020366",
+          "nome": "EEEM CONEGO MACHADO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Patos",
+      "escolas": [
+        {
+          "inep": "25020927",
+          "nome": "ECI AUZENIR LACERDA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25020854",
+          "nome": "ECI DOUTOR DIONISIO DA COSTA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25020935",
+          "nome": "ECI MONSENHOR MANOEL VIEIRA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25130153",
+          "nome": "ECIT LYNALDO CAVALCANTI DE ALBUQUERQUE",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        },
+        {
+          "inep": "25020960",
+          "nome": "EEEF CORIOLANO DE MEDEIROS",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25020978",
+          "nome": "EEEF PROFA MARIA NUNES",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_saeb": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25020986",
+          "nome": "EEEF RIO BRANCO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25020900",
+          "nome": "EEEFM ANTONIA ARAUJO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25103563",
+          "nome": "EEEFM PROFESSOR JOSE GOMES ALVES",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_saeb": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        },
+        {
+          "inep": "25020889",
+          "nome": "EEEM LUCIA WANDERLEY DE FREITAS",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25021427",
+          "nome": "ENE D EXPEDITO E DE OLIVEIRA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "desempenho": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Fortalecer o monitoramento contínuo do progresso dos alunos; criar grupos de estudo e mentorias entre pares."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Quixaba",
+      "escolas": [
+        {
+          "inep": "25022059",
+          "nome": "EEEFM HERCULANO PEREIRA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Salgadinho",
+      "escolas": [
+        {
+          "inep": "25038796",
+          "nome": "EEEM FENELON NOBREGA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Santa Luzia",
+      "escolas": [
+        {
+          "inep": "25039083",
+          "nome": "ECI EEF COELHO LISBOA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25039032",
+          "nome": "ECITE PADRE JERONIMO LAUWEN",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25039075",
+          "nome": "EEEFM ARLINDO BENTO DE MORAIS",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Santa Teresinha",
+      "escolas": [
+        {
+          "inep": "25022296",
+          "nome": "ECI PROFESSOR JOAO NOBERTO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "São José de Espinharas",
+      "escolas": [
+        {
+          "inep": "25022652",
+          "nome": "ECIEEFM JOSE AMERICO DE ALMEIDA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "São José do Bonfim",
+      "escolas": [
+        {
+          "inep": "25023187",
+          "nome": "ECI EEM MARIA DE LOURDES MEIRA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Fortalecer o monitoramento contínuo do progresso dos alunos; criar grupos de estudo e mentorias entre pares."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "São José do Sabugi",
+      "escolas": [
+        {
+          "inep": "25039504",
+          "nome": "EEEFM OLAVO BILAC",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "São Mamede",
+      "escolas": [
+        {
+          "inep": "25040014",
+          "nome": "ECITE SERAFICO NOBREGA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        },
+        {
+          "inep": "25039997",
+          "nome": "EEEFM NAPOLEAO ABDON DA NOBREGA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Taperoá",
+      "escolas": [
+        {
+          "inep": "25050435",
+          "nome": "ECIT MELQUIADES VILAR",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        },
+        {
+          "inep": "25050486",
+          "nome": "EEEFM FELIX DALTRO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Teixeira",
+      "escolas": [
+        {
+          "inep": "25037803",
+          "nome": "ECIT SEBASTIAO GUEDES DA SILVA",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        },
+        {
+          "inep": "25037846",
+          "nome": "EEEFM DR MANOEL DANTAS",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "reprovacao": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Baixo",
+              "estrategias": "Estimar o protagonismo estudantil na mobilização. Produzir cartazes, vídeos e postagens para as redes sociais da escola, promovendo o engajamento da comunidade escolar e ampliando a divulgação da avaliação, reunir os pais e explicar a importância da avaliação para a escola. Ligar diretamente para os pais dos estudantes que estão apresentando infrequência."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Implementar programas de recuperação e reforço escolar; capacitar professores em metodologias de ensino diferenciadas; envolver famílias no processo educacional."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Tenório",
+      "escolas": [
+        {
+          "inep": "25123297",
+          "nome": "ECI MARIA ELIDIA RANGEL",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "abandono": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "desempenho": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Manter o suporte pedagógico ativo e promover capacitações para garantir a continuidade da alta aprovação."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "nome": "Várzea",
+      "escolas": [
+        {
+          "inep": "25040600",
+          "nome": "ECIEEM ODILON DE FIGUEIREDO",
+          "indicadores": {
+            "aprovacao": {
+              "nivel": "Alto",
+              "estrategias": "Alto: Acompanhar o monitoramento dos alunos com alta frequência para garantir que a presença se traduza em sucesso acadêmico."
+            },
+            "reprovacao": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "abandono": {
+              "nivel": "Baixo",
+              "estrategias": "Baixo: Busca ativa: Realizar visitas domiciliares ou ligações para entender os motivos das faltas e estabelecer parcerias para melhorar a frequência. Programa de Acompanhamento Individualizado: Implementar acompanhamento personalizado para alunos com baixa frequência, envolvendo conselheiros, assistentes sociais e psicólogos. Plano de Intervenção Pedagógica: Oferecer apoio escolar extra, como aulas de reforço, acompanhamento socioemocional e projetos de motivação."
+            },
+            "frequencia": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_siave": {
+              "nivel": "Alto",
+              "estrategias": "Monitorar e garantir a continuidade das ações de mobilização para manter a taxa de participação dentro dos índices necessários, assegurando a meta 80% de participação."
+            },
+            "participacao_saeb": {
+              "nivel": "Médio",
+              "estrategias": "Ressaltar o risco de a escola não alcançar os 80% de participação. Intensificar a mobilização com foco em informar sobre a importância da participação, criando materiais visuais e digitais, além de realizar ações para envolver alunos, pais e responsáveis"
+            },
+            "desempenho": {
+              "nivel": "Médio",
+              "estrategias": "Médio: Fortalecer o monitoramento contínuo do progresso dos alunos; criar grupos de estudo e mentorias entre pares."
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
